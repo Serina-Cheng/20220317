@@ -1,0 +1,73 @@
+@charset "utf-8";
+header h1 {
+    color: #7E0608;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    top: auto;
+    bottom: auto;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+nav a:hover {
+    color: #AE87E5;
+}
+.goldfish {
+    background-size: contain;
+    height: 500px;
+    background-image: url(assets/09.jpg);
+    border-radius: 70px;
+}
+
+
+nav a {
+    color: #B94242;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 0px 0px #AB2527;
+}
+article h3 {
+    background-color: #E1E1E1;
+    line-height: 35px;
+    padding-left: 25px;
+    border-radius: 15px;
+}
+footer {
+    color: #1D1B47;
+}
+.01 {
+    height: 250px;
+    background-image: url(assets/01-unsplash.jpg);
+    background-size: contain;
+
+}
+nav a:visited {
+    color: #283582;
+}
+.01fish {
+    height: 250px;
+    background-size: cover;
+}
+
+
+
+article p {
+    color: #3F0202;
+}
+
+
+
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
